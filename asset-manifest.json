@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactport/static/css/main.c2cab247.css",
+    "main.js": "/reactport/static/js/main.bb468d64.js",
+    "static/media/resume.pdf": "/reactport/static/media/resume.e7c68ab42c8b4397e019.pdf",
+    "index.html": "/reactport/index.html",
+    "main.c2cab247.css.map": "/reactport/static/css/main.c2cab247.css.map",
+    "main.bb468d64.js.map": "/reactport/static/js/main.bb468d64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.bb468d64.js"
+  ]
+}
